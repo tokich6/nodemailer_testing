@@ -1,4 +1,3 @@
-# nodemailer_testing
 
 Sending emails from Node.js app
 
